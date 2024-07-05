@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://conockbov.github.io/sitemap
+Sitemap: https://conockbov.github.io/app/sitemap
+Sitemap: https://conockbov.github.io/assets/sitemap
+Sitemap: https://conockbov.github.io/css/sitemap
+Sitemap: https://conockbov.github.io/includes/sitemap
+Sitemap: https://conockbov.github.io/item/sitemap
+Sitemap: https://conockbov.github.io/src/sitemap
